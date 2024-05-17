@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Key - Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 2rem auto;
+            background-color: #fff;
+            padding: 2rem;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .content-section {
+            margin-bottom: 2rem;
+        }
+        h2 {
+            color: #333;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem 0;
+            background-color: #333;
+            color: #fff;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        a {
+            color: #1e90ff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>The Key</h1>
+</header>
+
+<div class="container">
+    <section class="content-section">
+        <h2>About Me</h2>
+        <p>Hello! Welcome to my personal webpage. Here you'll find information about my work, interests, and how to get in touch with me. Stay tuned for more updates!</p>
+    </section>
+
+    <section class="content-section">
+        <h2>Content Information</h2>
+        <p>Feel free to explore the content available on this page. If you have any questions or would like to know more, don't hesitate to reach out.</p>
+    </section>
+
+    <section class="content-section">
+        <h2>Connect with Me</h2>
+        <p>You can follow me on Instagram for more updates and insights into my
